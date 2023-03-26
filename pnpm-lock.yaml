@@ -8,6 +8,7 @@ specifiers:
   dotenv: ^16.0.3
   eslint: 8.36.0
   eslint-config-next: 13.2.4
+  jose: ^4.13.1
   next: 13.2.4
   prisma: ^4.11.0
   react: 18.2.0
@@ -22,6 +23,7 @@ dependencies:
   dotenv: 16.0.3
   eslint: 8.36.0
   eslint-config-next: 13.2.4_j4766f7ecgqbon3u7zlxn5zszu
+  jose: 4.13.1
   next: 13.2.4_biqbaboplfbrettd7655fr4n2y
   prisma: 4.11.0
   react: 18.2.0
@@ -1477,6 +1479,10 @@ packages:
 
   /isexe/2.0.0:
     resolution: {integrity: sha512-RHxMLp9lnKHGHRng9QFhRCMbYAcVpn69smSGcq3f36xjgVVWThj4qqLbTLlq7Ssj8B+fIQ1EuCEGI2lKsyQeIw==}
+    dev: false
+
+  /jose/4.13.1:
+    resolution: {integrity: sha512-MSJQC5vXco5Br38mzaQKiq9mwt7lwj2eXpgpRyQYNHYt2lq1PjkWa7DLXX0WVcQLE9HhMh3jPiufS7fhJf+CLQ==}
     dev: false
 
   /js-sdsl/4.4.0:
