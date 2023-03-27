@@ -2,7 +2,7 @@ import React from "react";
 
 function HeroSectionSearch() {
   return (
-    <div className="py-2  flex flex-col items-start gap-6 justify-center flex-1 lg:pb-40">
+    <div className="py-2 flex flex-col items-start flex-1 gap-6 justify-center">
       <p className=" text-[2.5rem] md:text-[1.5rem] lg:text-[3.6rem] tracking tracking-wide text-headingColor font-bold">
         Find Best Restaurant in
         <span className="text-orange-500 text-[2.8rem] md:text-[1.8rem] lg:text-[3.6rem]">

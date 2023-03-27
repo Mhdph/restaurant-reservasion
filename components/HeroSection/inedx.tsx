@@ -4,7 +4,10 @@ import HeroSectionSearch from "./HeroSectionSearch";
 
 function HeroSection() {
   return (
-    <section className="grid md:grid-cols-2 grid-cols-1 gap-2 w-full" id="home">
+    <section
+      className="flex items-center flex-col h-screen justify-center md:flex-row w-full"
+      id="home"
+    >
       <HeroSectionSearch />
       <HeroSectionContet />
     </section>

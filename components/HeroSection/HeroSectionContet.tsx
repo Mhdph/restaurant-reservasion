@@ -4,7 +4,7 @@ import HeroBg from "../../assets/heroBg.png";
 import { heroData } from "@/utils/data";
 function HeroSectionContet() {
   return (
-    <div className="p-4 flex-1 felx items-center relative py-2">
+    <div className="p-4 flex-1 flex items-center relative py-2">
       <Image
         src={HeroBg}
         className="h-[420px] lg:h-[420px] 2xl:h-[650px] w-full lg:w-[440px] md:w-auto ml-auto"
